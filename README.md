@@ -10,4 +10,3 @@ Business Development Manager @traveloka
 
 ### Projects
 Re-discovery AirAsia
--
