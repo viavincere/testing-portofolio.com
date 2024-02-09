@@ -3,3 +3,4 @@ logo: /assets/img/Linkedin picture.jpg
 description: text below image
 show_downloads: true
 theme: jekkly-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
